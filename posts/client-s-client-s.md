@@ -1,5 +1,5 @@
 ---
-title: 'Knowing Your Client's Client's desires'
+title: 'Knowing Your Clients Clients desires'
 date: '2022-01-06'
 ---
 
